@@ -1,0 +1,5 @@
+C:\Users\hyobin\Documents\ToGather\ClientTest\ClientTest\ClientTest\bin\Debug\ClientTest.exe.config
+C:\Users\hyobin\Documents\ToGather\ClientTest\ClientTest\ClientTest\bin\Debug\ClientTest.exe
+C:\Users\hyobin\Documents\ToGather\ClientTest\ClientTest\ClientTest\bin\Debug\ClientTest.pdb
+C:\Users\hyobin\Documents\ToGather\ClientTest\ClientTest\ClientTest\obj\Debug\ClientTest.exe
+C:\Users\hyobin\Documents\ToGather\ClientTest\ClientTest\ClientTest\obj\Debug\ClientTest.pdb
